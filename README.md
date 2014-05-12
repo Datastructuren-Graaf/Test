@@ -1,8 +1,3 @@
-Test
-====
-
-//even een test
-
 import java.util.*;
 import java.io.*;
 public class Graaf{
