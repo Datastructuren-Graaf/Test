@@ -72,7 +72,7 @@ public class Graaf{
                graaf.add("c","a",10,1);
                System.out.println(graaf);
 
-       }
+       } 
 
 
 }
